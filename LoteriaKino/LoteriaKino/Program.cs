@@ -12,8 +12,17 @@ class Program
         string pathCSV = System.AppDomain.CurrentDomain.BaseDirectory.ToString() + "saida.csv";
         //Console.WriteLine(pathCSV);
 
-        if (Parser.doParse(url, pathCSV, false)) {
+        Parser parser = new();
+
+        if (parser.doParse(url, pathCSV, false))
+        {
             Process.Start("explorer.exe", pathCSV);
+            parser.Dispose();
+            return;
         }
+
+        parser.Dispose();
+        Console.WriteLine(string.Format("Ocorreu um erro ao criar o arquivo csv: {0}", pathCSV));
+
     }
 }
