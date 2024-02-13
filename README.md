@@ -5,7 +5,7 @@ ajuda para colega facebook
 
 # Pré-requisitos
 
-isntalar o [dotnet 8.0](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
+instalar o [dotnet 8.0](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
 
 # Executável
 
@@ -15,6 +15,22 @@ Executar o arquivo: `LoteriaKino.exe`
 
 O arquivo de saída será: `saida.csv`
 
+```
+01
+02
+03
+04
+07
+11
+14
+17
+18
+19
+20
+21
+22
+24
+```
 
 # Urls
 
