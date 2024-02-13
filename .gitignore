@@ -1,0 +1,25 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/19a0e0e3-a98c-4b8d-9498-0825acbb0c58.vsidx
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/7c7aef4b-4c1e-4873-a1e1-938fb03cb1b7.vsidx
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/8f4e7116-778c-456f-affb-3559ca8d7337.vsidx
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/d645c89f-c998-4b9a-954b-bc426830acf7.vsidx
+/LoteriaKino/LoteriaKino/bin/Debug/net8.0/LoteriaKino.deps.json
+/LoteriaKino/LoteriaKino/bin/Debug/net8.0/LoteriaKino.dll
+/LoteriaKino/LoteriaKino/bin/Debug/net8.0/LoteriaKino.exe
+/LoteriaKino/LoteriaKino/bin/Debug/net8.0/LoteriaKino.pdb
+/LoteriaKino/LoteriaKino/bin/Debug/net8.0/LoteriaKino.runtimeconfig.json
+/LoteriaKino/LoteriaKino/obj
+/LoteriaKino/.vs/LoteriaKino/DesignTimeBuild/.dtbcache.v2
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/31c17111-e4f1-4884-b989-3427ed0dd266.vsidx
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/919a48fe-bbce-4e8e-bd31-f118da473a33.vsidx
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/c8060725-b5e7-4bf8-933e-0801b23fc79f.vsidx
+/LoteriaKino/.vs/LoteriaKino/FileContentIndex/d67ea086-5c65-4e9b-9ed8-2d9d4000f975.vsidx
+/LoteriaKino/.vs/LoteriaKino/v17
+/LoteriaKino/.vs/LoteriaKino/v17/.futdcache.v2
+/LoteriaKino/LoteriaKino/bin/Debug/net8.0
+/LoteriaKino/.vs/ProjectEvaluation/loteriakino.metadata.v7.bin
+/LoteriaKino/.vs/ProjectEvaluation/loteriakino.projects.v7.bin
