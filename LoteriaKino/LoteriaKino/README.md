@@ -43,4 +43,4 @@ No código: `IWebDriver driver = new ChromeDriver(@"C:\Program Files (x86)\webdri
 
 - [facebook](https://www.facebook.com/share/p/nVgC9jeemZ9m6MvA/?mibextid=2JQ9oc)
 - [sorteosenvivo](https://sorteosenvivo.loteria.cl/loteriaweb/resultados/kino)
-
+- [dotnet 8.0](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0)
